@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 188" role="img" aria-labelledby="t d">
+  <title id="t">Booking API</title>
+  <desc id="d">FastAPI service for time-slot booking, with EdgeDB and Docker.</desc>
+  <rect width="520" height="188" rx="18" fill="#0f172a"/>
+  <rect x="1" y="1" width="518" height="186" rx="17" fill="none" stroke="#1e293b"/>
+  <rect width="7" height="188" rx="3" fill="#059669"/>
+  <text x="32" y="40" fill="#6ee7b7" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="2.4">FASTAPI</text>
+  <text x="32" y="78" fill="#f8fafc" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700">Booking API</text>
+  <text x="32" y="114" fill="#cbd5e1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Time-slot booking, with user accounts.</text>
+  <text x="32" y="138" fill="#94a3b8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">FastAPI, EdgeDB, and Docker.</text>
+  <text x="32" y="166" fill="#38bdf8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">View repository &#8594;</text>
+</svg>
