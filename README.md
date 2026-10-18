@@ -25,7 +25,7 @@ On the backend I built a small booking service: FastAPI, EdgeDB, and Docker, wit
 <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
 <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
 <img alt="LuaJIT" src="https://img.shields.io/badge/LuaJIT-000080?style=for-the-badge&logo=lua&logoColor=white">
-<img alt="MicroPython" src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white">
+<img alt="MicroPython" src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge">
 
 **Backend**
 
@@ -62,15 +62,15 @@ Also [Starter-Minecraft-Server](https://github.com/Igor20264/Starter-Minecraft-S
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Igor20264&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=7dd3fc&amp;text_color=e2e8f0&amp;icon_color=38bdf8&amp;ring_color=38bdf8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Igor20264&amp;show_icons=true&amp;hide_border=true&amp;bg_color=f8fafc&amp;title_color=0f172a&amp;text_color=334155&amp;icon_color=0369a1&amp;ring_color=0369a1">
-  <img alt="GitHub stats for Igor20264" width="400" src="https://github-readme-stats.vercel.app/api?username=Igor20264&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=7dd3fc&amp;text_color=e2e8f0&amp;icon_color=38bdf8&amp;ring_color=38bdf8">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Igor20264&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;bg_color=0f172a&amp;title_color=7dd3fc&amp;text_color=e2e8f0&amp;icon_color=38bdf8&amp;ring_color=38bdf8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Igor20264&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;bg_color=f8fafc&amp;title_color=0f172a&amp;text_color=334155&amp;icon_color=0369a1&amp;ring_color=0369a1">
+  <img alt="GitHub stats for Igor20264" width="400" src="https://github-readme-stats.vercel.app/api?username=Igor20264&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;bg_color=0f172a&amp;title_color=7dd3fc&amp;text_color=e2e8f0&amp;icon_color=38bdf8&amp;ring_color=38bdf8">
 </picture>
 &nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor20264&amp;layout=compact&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=7dd3fc&amp;text_color=e2e8f0&amp;langs_count=6">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor20264&amp;layout=compact&amp;hide_border=true&amp;bg_color=f8fafc&amp;title_color=0f172a&amp;text_color=334155&amp;langs_count=6">
-  <img alt="Most used languages for Igor20264" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor20264&amp;layout=compact&amp;hide_border=true&amp;bg_color=0f172a&amp;title_color=7dd3fc&amp;text_color=e2e8f0&amp;langs_count=6">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor20264&amp;layout=compact&amp;hide_border=true&amp;exclude_repo=humorists-template&amp;hide=makefile,cmake,dockerfile,shell&amp;langs_count=4&amp;bg_color=0f172a&amp;title_color=7dd3fc&amp;text_color=e2e8f0">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor20264&amp;layout=compact&amp;hide_border=true&amp;exclude_repo=humorists-template&amp;hide=makefile,cmake,dockerfile,shell&amp;langs_count=4&amp;bg_color=f8fafc&amp;title_color=0f172a&amp;text_color=334155">
+  <img alt="Most used languages for Igor20264" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor20264&amp;layout=compact&amp;hide_border=true&amp;exclude_repo=humorists-template&amp;hide=makefile,cmake,dockerfile,shell&amp;langs_count=4&amp;bg_color=0f172a&amp;title_color=7dd3fc&amp;text_color=e2e8f0">
 </picture>
 
 </div>
