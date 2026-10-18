@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
   <title id="title">Igor</title>
-  <desc id="desc">Python developer, RTU MIREA, Moscow. Python, C, C#, and Lua.</desc>
+  <desc id="desc">Python developer in Moscow. Python, C, C++, and Lua.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#070b14"/>
@@ -26,7 +26,7 @@
   <rect x="1.5" y="1.5" width="1197" height="337" rx="26.5" fill="none" stroke="#1e293b" stroke-width="2"/>
   <text x="72" y="118" fill="#7dd3fc" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" letter-spacing="5">PYTHON DEVELOPER</text>
   <text x="68" y="202" fill="#f8fafc" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="84" font-weight="700">Igor</text>
-  <text x="72" y="252" fill="#cbd5e1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22">RTU MIREA &#183; Moscow</text>
+  <text x="72" y="252" fill="#cbd5e1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22">Moscow</text>
   <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">
     <rect x="72" y="276" width="108" height="34" rx="17" fill="#0b1220" stroke="#334155"/>
     <text x="126" y="298" fill="#e2e8f0" text-anchor="middle">Python</text>
