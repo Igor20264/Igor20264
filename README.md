@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" alt="Igor — Python developer, Moscow" width="100%">
 
-Python first. C, C#, and Lua when the runtime needs a closer look.
+Python first. C, C++, Lua, Rust, and TypeScript when the job needs them.
 
 </div>
 
