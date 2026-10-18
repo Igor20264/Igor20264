@@ -28,6 +28,8 @@ Around that I build FastAPI and Flask services, Telegram bots, and desktop shell
 <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 **Runtimes**
 
@@ -42,6 +44,7 @@ Around that I build FastAPI and Flask services, Telegram bots, and desktop shell
 
 <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img alt="Nginx" src="https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white">
 <img alt="Pydantic" src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white">
 <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white">
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -57,42 +60,26 @@ Around that I build FastAPI and Flask services, Telegram bots, and desktop shell
 <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
 <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<img alt="PyQt" src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
 <img alt="Electron" src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white">
 <img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white">
 <img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white">
 <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<img alt="BeamNG" src="https://img.shields.io/badge/BeamNG-F7450B?style=for-the-badge">
 
 **Tools**
 
 <img alt="CMake" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white">
 <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white">
 <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+<img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-22272E?style=for-the-badge&logo=githubactions&logoColor=white">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img alt="Proxmox" src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white">
+<img alt="Automation" src="https://img.shields.io/badge/Automation-yellow?style=for-the-badge&logo=ansible&logoColor=white">
 
 </div>
-
-## Projects
-
-<div align="center">
-
-<a href="https://github.com/Igor20264/NodeMP-C_ABI-Python"><img src="assets/card-cpython.svg" alt="NodeMP CPython host: a global node, with heavy work on its own core" width="420"></a>
-&nbsp;
-<a href="https://github.com/Igor20264/NodeMP-C_ABI-micropython"><img src="assets/card-micropython.svg" alt="NodeMP MicroPython host: sandboxed scripts and a lane of their own" width="420"></a>
-
-<br>
-
-<a href="https://github.com/Igor20264/NodeMP-C_ABI-luajit"><img src="assets/card-luajit.svg" alt="NodeMP LuaJIT host: LuaJIT linked into the server module" width="420"></a>
-&nbsp;
-<a href="https://github.com/Igor20264/CRUD_test_task"><img src="assets/card-booking.svg" alt="Booking API: FastAPI, EdgeDB, and Docker" width="420"></a>
-
-</div>
-
-<br>
-
-Also [Starter-Minecraft-Server](https://github.com/Igor20264/Starter-Minecraft-Server) — a small Python starter for a Minecraft server.
 
 ---
 
@@ -103,11 +90,3 @@ Also [Starter-Minecraft-Server](https://github.com/Igor20264/Starter-Minecraft-S
 Сейчас это языковые модули NodeMP. Каждый из них — хост на C ABI: CPython, MicroPython, LuaJIT, QuickJS, Luau, Squirrel и Wren. Скрипт видит глобальный `node`, а долгая работа уходит с игрового тика на поток, закреплённый за одним ядром.
 
 Рядом сервисы на FastAPI и Flask, боты Telegram и оболочки на Tauri и Electron.
-
-| Проект | Что это |
-| --- | --- |
-| [NodeMP · Python](https://github.com/Igor20264/NodeMP-C_ABI-Python) | Хост CPython. Скрипт видит `node`, тяжёлая работа сидит на своём ядре. |
-| [NodeMP · MicroPython](https://github.com/Igor20264/NodeMP-C_ABI-micropython) | Отдельный интерпретатор рядом с CPython. Скрипты в песочнице, своя очередь задач. |
-| [NodeMP · LuaJIT](https://github.com/Igor20264/NodeMP-C_ABI-luajit) | LuaJIT вшит в модуль сервера. Отдельный `lua51.dll` серверу не нужен. |
-| [Booking API](https://github.com/Igor20264/CRUD_test_task) | Бронирование слотов времени. FastAPI, EdgeDB и Docker. |
-| [Starter-Minecraft-Server](https://github.com/Igor20264/Starter-Minecraft-Server) | Небольшой запуск сервера Minecraft на Python. |
