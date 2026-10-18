@@ -79,6 +79,17 @@ Around that I build FastAPI and Flask services, Telegram bots, and desktop shell
 <img alt="Proxmox" src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white">
 <img alt="Automation" src="https://img.shields.io/badge/Automation-yellow?style=for-the-badge&logo=ansible&logoColor=white">
 
+**Reverse engineering**
+
+<img alt="Ghidra" src="https://img.shields.io/badge/Ghidra-111111?style=for-the-badge">
+<img alt="IDA" src="https://img.shields.io/badge/IDA-FF6A00?style=for-the-badge">
+<img alt="x64dbg" src="https://img.shields.io/badge/x64dbg-2B5F8A?style=for-the-badge">
+<img alt="dnSpy" src="https://img.shields.io/badge/dnSpy-7B2D6E?style=for-the-badge">
+<img alt="ILSpy" src="https://img.shields.io/badge/ILSpy-5C2D91?style=for-the-badge">
+<img alt="Detect It Easy" src="https://img.shields.io/badge/Detect_It_Easy-1B5E20?style=for-the-badge">
+<img alt="RetDec" src="https://img.shields.io/badge/RetDec-0D47A1?style=for-the-badge">
+<img alt="IL2CPP" src="https://img.shields.io/badge/IL2CPP-455A64?style=for-the-badge">
+
 </div>
 
 ---
